@@ -22,7 +22,7 @@ Please remember to run the script with root access, for example
 running 'sudo su' prior to the first executable.
 
 After, you can run the script using './LinuxDetection.sh' (please ensure
-you have navigated into 'LinuxToolKit' folder before hand.
+you have navigated into the correct folder before hand.
 
 Any advice/suggestions(/job oppotunities!) can be relayed to my email, 
 I can be contacted on linuxprogramking@outlook.com
