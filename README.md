@@ -25,7 +25,10 @@ running 'sudo su' prior to the first executable.
 After, you can run the script using './LinuxDetection.sh' (please ensure
 you have navigated into the correct folder before hand).
 
-Any advice/suggestions(/job oppotunities!) can be relayed to my email, 
+If you feel stuck at any stage press 'enter' or wait for uprgades/
+updates to fully finish before cancelling.
+
+Any advice/suggestions(/job opportunities!) can be relayed to my email, 
 I can be contacted on linuxprogramking@outlook.com
 
 I would also appreciate any donations which can be sent to the
