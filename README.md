@@ -1,5 +1,6 @@
 # LinuxToolkit
-Linux distribution detection, System info, CPU averages, Network info and Package management.
+Linux distribution detection, System information, 
+CPU % utilisation averages, Network information and Package management.
 
 ************************************************************************
 		****LINUX TOOLKIT - Written by LJCH***** 
