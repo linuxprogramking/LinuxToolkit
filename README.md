@@ -2,7 +2,7 @@
 Linux distribution detection, System info, CPU averages, Network info and Package management.
 
 ************************************************************************
-***************LINUX TOOLKIT - Written by LJCH**************************  
+		****LINUX TOOLKIT - Written by LJCH***** 
 ************************************************************************
 
 This program has been created to identify the type of Linux distribution
