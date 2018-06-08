@@ -28,6 +28,9 @@ you have navigated into the correct folder before hand).
 If you feel stuck at any stage press 'enter' or wait for uprgades/
 updates to fully finish before cancelling.
 
+CPU % utilisation averages will not work on virtual machines. I will in 
+future add a clause specific for VMs.
+
 Any advice/suggestions(/job opportunities!) can be relayed to my email, 
 I can be contacted on linuxprogramking@outlook.com
 
