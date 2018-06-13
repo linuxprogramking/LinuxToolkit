@@ -39,10 +39,5 @@ following bitcoin address:
 
 		            341cPqhG9aBy9kRgBfJsUiHEyM4ykUu8Qr
 				
-I am happy to spend time working on including a certain distribution or
-making a requested improvement, so please contact with any enquiries.
 
-		            +++++++++++++++++++++++++++++++++
-		            + Linux 4 Life - WizardOfLozTnT +
-		            +++++++++++++++++++++++++++++++++
 
