@@ -28,13 +28,19 @@ you have navigated into the correct folder before hand).
 If you feel stuck at any stage press 'enter' or wait for uprgades/
 updates to fully finish before cancelling.
 
-CPU % utilisation averages will not work on virtual machines. I will in 
+CPU % utilisation averages may not work on virtual machines. I will in 
 future add a clause specific for VMs.
 
-I would also appreciate any donations which can be sent to the
-following bitcoin address:
+Full testing has been done on the following distributions:
 
-		            341cPqhG9aBy9kRgBfJsUiHEyM4ykUu8Qr
-				
+Ubuntu - Debian
+Kali - Debian
+CentOS - Redhat
+Calculate - Enoch
+OpenSUSE - Slackware
+Black - Arch
+Arch (standard)
 
+If you want testing done on a particular operating system then get in touch via:
+linuxprogramking@outlook.com
 
